@@ -13,7 +13,7 @@ This project provides a containerized setup for running local LLM (Large Languag
 - Core LLM service running locally
 - GPU-enabled for better performance
 - Runs on port 11434
-- Pre-configured with Gemma 3B 1B model
+- Pre-configured with [Gemma3 1B model](https://ollama.com/library/gemma3:1b)
 - Official website: https://ollama.com/
 
 ### Open WebUI
